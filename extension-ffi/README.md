@@ -28,3 +28,7 @@ Torch.utils.ffi: http://pytorch.org/docs/master/ffi.html
 Extension API reference: https://docs.python.org/3/distutils/apiref.html#distutils.core.Extension
 
 cffi: http://cffi.readthedocs.io/en/latest/
+
+Standalone C TH library: https://github.com/torch/TH
+
+For the CUDA implementation: https://github.com/torch/cutorch/tree/master/lib/THC
