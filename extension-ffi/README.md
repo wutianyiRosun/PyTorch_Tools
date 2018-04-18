@@ -16,6 +16,8 @@ python test_module_version.py
 
 Note: 
 
+Torch.utils.ffi: http://pytorch.org/docs/master/ffi.html
+
 Extension API reference: https://docs.python.org/3/distutils/apiref.html#distutils.core.Extension
 
-Torch.utils.ffi: http://pytorch.org/docs/master/ffi.html
+cffi: http://cffi.readthedocs.io/en/latest/
