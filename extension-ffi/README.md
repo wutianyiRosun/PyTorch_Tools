@@ -14,10 +14,12 @@ python test_function_version.py
 python test_module_version.py
 ```
 
-# Steps:
+## Steps:
 (1) 编写c程序，实现前向计算和后向求导两个函数.如果利用cuda,则需实现对应cuda版本的程序
-(2) 编写python 调用c的接口, Function或者Module. PyTorch中的tensor对应C代码中的THTensor.
-(3) 编写build.py编译文件.
+
+(2) 编写python 调用c的接口, Function或者Module. PyTorch中的tensor对应C代码中的THTensor
+
+(3) 编写build.py编译文件
 
 Note: 
 
