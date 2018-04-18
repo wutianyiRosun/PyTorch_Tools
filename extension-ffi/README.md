@@ -14,5 +14,8 @@ python test_function_version.py
 python test_module_version.py
 ```
 
-Note: Extension API reference: https://docs.python.org/3/distutils/apiref.html#distutils.core.Extension
+Note: 
 
+Extension API reference: https://docs.python.org/3/distutils/apiref.html#distutils.core.Extension
+
+Torch.utils.ffi: http://pytorch.org/docs/master/ffi.html
