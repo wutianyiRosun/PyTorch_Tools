@@ -23,6 +23,7 @@ ffi = create_extension(
     sources=sources,  #sources(List[str])--list of sources to compile
     define_macros=defines,
     relative_to=__file__, #path of the build file. Required when "package is True". It's best to use "__file__" for this argument.,
+    with_cuda=with_cuda,
     extra_compile_args=["-std=c99"]
 )
 
